@@ -1,0 +1,6 @@
+D:\GitHub\HackerRack\SuperReducedString\bin\Debug\SuperReducedString.exe.config
+D:\GitHub\HackerRack\SuperReducedString\bin\Debug\SuperReducedString.exe
+D:\GitHub\HackerRack\SuperReducedString\bin\Debug\SuperReducedString.pdb
+D:\GitHub\HackerRack\SuperReducedString\obj\Debug\SuperReducedString.csprojResolveAssemblyReference.cache
+D:\GitHub\HackerRack\SuperReducedString\obj\Debug\SuperReducedString.exe
+D:\GitHub\HackerRack\SuperReducedString\obj\Debug\SuperReducedString.pdb
