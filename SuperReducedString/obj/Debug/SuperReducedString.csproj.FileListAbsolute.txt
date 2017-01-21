@@ -4,3 +4,9 @@ D:\GitHub\HackerRack\SuperReducedString\bin\Debug\SuperReducedString.pdb
 D:\GitHub\HackerRack\SuperReducedString\obj\Debug\SuperReducedString.csprojResolveAssemblyReference.cache
 D:\GitHub\HackerRack\SuperReducedString\obj\Debug\SuperReducedString.exe
 D:\GitHub\HackerRack\SuperReducedString\obj\Debug\SuperReducedString.pdb
+D:\GitHub\HackerRank\SuperReducedString\bin\Debug\SuperReducedString.exe.config
+D:\GitHub\HackerRank\SuperReducedString\bin\Debug\SuperReducedString.exe
+D:\GitHub\HackerRank\SuperReducedString\bin\Debug\SuperReducedString.pdb
+D:\GitHub\HackerRank\SuperReducedString\obj\Debug\SuperReducedString.csprojResolveAssemblyReference.cache
+D:\GitHub\HackerRank\SuperReducedString\obj\Debug\SuperReducedString.exe
+D:\GitHub\HackerRank\SuperReducedString\obj\Debug\SuperReducedString.pdb

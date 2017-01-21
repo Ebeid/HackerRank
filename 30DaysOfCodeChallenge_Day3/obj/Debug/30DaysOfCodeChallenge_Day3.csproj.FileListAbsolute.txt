@@ -1,0 +1,6 @@
+D:\GitHub\HackerRank\30DaysOfCodeChallenge_Day3\bin\Debug\30DaysOfCodeChallenge_Day3.exe.config
+D:\GitHub\HackerRank\30DaysOfCodeChallenge_Day3\bin\Debug\30DaysOfCodeChallenge_Day3.exe
+D:\GitHub\HackerRank\30DaysOfCodeChallenge_Day3\bin\Debug\30DaysOfCodeChallenge_Day3.pdb
+D:\GitHub\HackerRank\30DaysOfCodeChallenge_Day3\obj\Debug\30DaysOfCodeChallenge_Day3.exe
+D:\GitHub\HackerRank\30DaysOfCodeChallenge_Day3\obj\Debug\30DaysOfCodeChallenge_Day3.pdb
+D:\GitHub\HackerRank\30DaysOfCodeChallenge_Day3\obj\Debug\30DaysOfCodeChallenge_Day3.csprojResolveAssemblyReference.cache
