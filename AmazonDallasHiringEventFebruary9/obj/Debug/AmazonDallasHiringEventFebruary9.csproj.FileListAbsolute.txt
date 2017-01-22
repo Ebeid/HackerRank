@@ -1,0 +1,6 @@
+D:\GitHub\HackerRank\AmazonDallasHiringEventFebruary9\bin\Debug\AmazonDallasHiringEventFebruary9.exe.config
+D:\GitHub\HackerRank\AmazonDallasHiringEventFebruary9\bin\Debug\AmazonDallasHiringEventFebruary9.exe
+D:\GitHub\HackerRank\AmazonDallasHiringEventFebruary9\bin\Debug\AmazonDallasHiringEventFebruary9.pdb
+D:\GitHub\HackerRank\AmazonDallasHiringEventFebruary9\obj\Debug\AmazonDallasHiringEventFebruary9.csprojResolveAssemblyReference.cache
+D:\GitHub\HackerRank\AmazonDallasHiringEventFebruary9\obj\Debug\AmazonDallasHiringEventFebruary9.exe
+D:\GitHub\HackerRank\AmazonDallasHiringEventFebruary9\obj\Debug\AmazonDallasHiringEventFebruary9.pdb
