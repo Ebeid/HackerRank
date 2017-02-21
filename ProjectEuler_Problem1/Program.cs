@@ -31,7 +31,7 @@ Similarly for N = 100, we get 2318.
 */
 
 using System;
-using System.Collections;
+using System.Collections.Generic;
 
 namespace ProjectEuler_Problem1
 {
@@ -39,26 +39,22 @@ namespace ProjectEuler_Problem1
     {
         static void Main(string[] args)
         {
-            int iterations = int.Parse(Console.ReadLine());
-            if (iterations > 100000) return;
-            int upperBound = 0;
-            int result = 0;
-            ArrayList results = new ArrayList();
+            int testCases = int.Parse(Console.ReadLine());
+            long input = 0;
 
-            for (int i = 0; i < iterations; i++)
+            for (int i = 0; i < testCases; i++)
             {
-                upperBound = int.Parse(Console.ReadLine());
-                if (upperBound > 1000000000) continue;
-                result = 0;
-                for (int j = 1; j < upperBound; j++)
-                {
-                    if (((j % 3) == 0) || ((j % 5) == 0))
-                        result = result + j;
-                }
-                results.Add(result);
+                input = int.Parse(Console.ReadLine());
+                input = input-1;
+                long n3 = input / 3;
+                n3 = n3 * (n3 + 1) / 2;
+                long n5 = input / 5;
+                n5 = n5 * (n5 + 1) / 2;
+                long n15 = input / 15;
+                n15 = n15 * (n15 + 1) / 2;
+
+                Console.WriteLine(3*n3 + 5*n5 - 15*n15);
             }
-            foreach (var item in results)
-                Console.WriteLine(item.ToString());
         }
     }
 }

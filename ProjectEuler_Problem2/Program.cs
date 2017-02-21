@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ProjectEuler_Problem2
 {
@@ -20,6 +18,7 @@ namespace ProjectEuler_Problem2
             for (int j = 0; j <iterations; j++)
             {
                 upperBound = long.Parse(Console.ReadLine());
+                result = 0;
                 Dictionary<long, long> fibonacciMemorizedResults = new Dictionary<long, long>();
                 for (int i = 0; i < int.MaxValue; i++)
                 {
